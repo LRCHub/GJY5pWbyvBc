@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "幽霊と果実",
+  "base_artist": "Itaby",
+  "createdAt": "2026-01-14T08:05:37.454942Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "幽霊と果実 (Re:仮)",
+      "artist": "Itaby",
+      "has_synced": false,
+      "path": "select/pl_01_幽霊と果実_(Re_仮)_Itaby.txt"
+    }
+  ]
+}
